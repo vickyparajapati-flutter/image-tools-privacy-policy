@@ -3,7 +3,8 @@
 **Effective Date:** November 2, 2026  
 **Developer & Maintainer:** AIAnthro Studio  
 **Support Email:** [hello@aianthro.com](mailto:hello@aianthro.com)  
-**Repository:** [https://github.com/aianthro/pixelcraft-privacy-policy](https://github.com/aianthro/pixelcraft-privacy-policy)
+**Repository:** [https://github.com/vickyparajapati-flutter/image-tools-privacy-policy](https://github.com/vickyparajapati-flutter/image-tools-privacy-policy)  
+**Live Policy (Web):** [https://vickyparajapati-flutter.github.io/image-tools-privacy-policy/](https://vickyparajapati-flutter.github.io/image-tools-privacy-policy/)
 
 ---
 
@@ -46,7 +47,8 @@ PixelCraft Pro includes dedicated tools (such as **Tool #70: Remove EXIF Data**)
 If you have any questions, suggestions, or privacy concerns regarding PixelCraft Pro Studio, please reach out directly to our engineering support team:
 
 - **Email:** [hello@aianthro.com](mailto:hello@aianthro.com)
-- **GitHub Repository:** [https://github.com/aianthro/pixelcraft-privacy-policy](https://github.com/aianthro/pixelcraft-privacy-policy)
+- **Live Web Policy:** [https://vickyparajapati-flutter.github.io/image-tools-privacy-policy/](https://vickyparajapati-flutter.github.io/image-tools-privacy-policy/)
+- **GitHub Repository:** [https://github.com/vickyparajapati-flutter/image-tools-privacy-policy](https://github.com/vickyparajapati-flutter/image-tools-privacy-policy)
 
 ---
 
