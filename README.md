@@ -27,7 +27,7 @@ We firmly believe that your personal photos, documents, and creative designs sho
 
 ## 3. Local Storage & Device Permissions
 
-PixelCraft Pro requests only the minimal system permissions necessary for image editing functionality:
+PixelCraft Pro Studio requests only the minimal system permissions necessary for image editing functionality:
 
 - **Photo Library / Storage Access (`READ_EXTERNAL_STORAGE` / `READ_MEDIA_IMAGES`):** Required only to let you select images from your gallery to process inside the studio.
 - **Save to Storage (`WRITE_EXTERNAL_STORAGE` / Document Tree):** Required only when you explicitly tap "Save" or "Export" to save the optimized or edited output image to your device storage.
@@ -38,7 +38,7 @@ All processing cache is stored in volatile memory (`RAM`) and is automatically c
 
 ## 4. Metadata & EXIF Privacy
 
-PixelCraft Pro includes dedicated tools (such as **Tool #70: Remove EXIF Data**) specifically designed to sanitize private geolocation, camera serial numbers, and device timestamps before you share images on social media or messaging platforms.
+PixelCraft Pro Studio includes dedicated tools (such as **Tool #70: Remove EXIF Data**) specifically designed to sanitize private geolocation, camera serial numbers, and device timestamps before you share images on social media or messaging platforms.
 
 ---
 
